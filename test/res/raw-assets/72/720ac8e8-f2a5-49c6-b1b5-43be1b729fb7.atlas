@@ -1,0 +1,76 @@
+
+zpjs.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 273, 151
+  orig: 273, 151
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: false
+  xy: 331, 246
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 331, 335
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 637, 632
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 155
+  size: 327, 284
+  orig: 327, 284
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 444, 364
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 637, 555
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+mat01
+  rotate: false
+  xy: 637, 819
+  size: 339, 195
+  orig: 339, 195
+  offset: 0, 0
+  index: -1
+mat02
+  rotate: false
+  xy: 637, 724
+  size: 339, 93
+  orig: 339, 93
+  offset: 0, 0
+  index: -1
+top_bg
+  rotate: false
+  xy: 2, 441
+  size: 633, 573
+  orig: 633, 573
+  offset: 0, 0
+  index: -1

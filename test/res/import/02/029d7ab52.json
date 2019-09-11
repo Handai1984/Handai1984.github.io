@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"speedParticle","texture":"1b30ff3d7","rect":[926,654,67,72],"offset":[0,0],"originalSize":[67,72],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteAtlas","_name":"SpeedMoney.plist","_spriteFrames":{"speedParticle":{"__uuid__":"6b71Lc4slJjJuJPdNY1Npf"}}}]

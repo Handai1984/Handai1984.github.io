@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteAtlas","_name":"particle0.plist","_spriteFrames":{"particle0":{"__uuid__":"b2FdaDw8lG+pXeQyFIgHQu"}}},{"__type__":"cc.SpriteFrame","content":{"name":"particle0","texture":"133afe5ed","rect":[613,634,199,161],"offset":[0,0],"originalSize":[199,161],"rotated":1,"capInsets":[0,0,0,0]}}]

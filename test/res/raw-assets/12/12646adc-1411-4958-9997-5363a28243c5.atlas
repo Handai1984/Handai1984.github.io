@@ -1,0 +1,90 @@
+
+shudaixiong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 486, 149
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 246, 64
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+hand_L02
+  rotate: false
+  xy: 858, 214
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 246, 2
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+hand_R02
+  rotate: false
+  xy: 309, 94
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 60
+  size: 242, 194
+  orig: 242, 194
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 858, 166
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 934, 208
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+mat01
+  rotate: false
+  xy: 246, 136
+  size: 238, 118
+  orig: 238, 118
+  offset: 0, 0
+  index: -1
+mat02
+  rotate: false
+  xy: 2, 17
+  size: 238, 41
+  orig: 238, 41
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 676, 169
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 767, 169
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
